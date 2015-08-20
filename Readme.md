@@ -1,6 +1,8 @@
 Heroku buildpack: Python
 ========================
 
+[![Join the chat at https://gitter.im/Apogaea/heroku-buildpack-python](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Apogaea/heroku-buildpack-python?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) for Python apps, powered by [pip](http://www.pip-installer.org/).
 
 
